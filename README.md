@@ -1,9 +1,9 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/Adibhat108/Adibhat108/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/Adibhat108/Adibhat108/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Adithya and I like React js" src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/master/images/personal_note.svg" />
+  <img height="50" alt="My Name is Adithya and I like React js" src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/main/images/personal_note.svg" />
   <br />
   <br />
 
@@ -21,7 +21,7 @@
   <!-- Centering something has never been easy, has it? -->
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img alt="Globe" height="80" src="https://github.com/Adibhat108/Adibhat108/blob/master/images/globe.gif?raw=true">
+<img alt="Globe" height="80" src="https://github.com/Adibhat108/Adibhat108/blob/main/images/globe.gif?raw=true">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -35,7 +35,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img height="100" alt="Book" src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/master/images/book.gif">
+<img height="100" alt="Book" src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/main/images/book.gif">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -67,16 +67,16 @@
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/main/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/adibhat108/count.svg)
 
-<img src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<img src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/main/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/main/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/Adibhat108/Adibhat108/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>

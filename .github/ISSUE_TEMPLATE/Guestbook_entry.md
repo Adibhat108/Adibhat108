@@ -5,7 +5,7 @@ title: ''
 ---
 
 <div align="center">
-  <img src="https://github.com/Adibhat108/Adibhat108/blob/master/images/guestbook.png?raw=true" alt="Guestbook" />
+  <img src="https://github.com/Adibhat108/Adibhat108/blob/main/images/guestbook.png?raw=true" alt="Guestbook" />
   <br />
 </div>
 
